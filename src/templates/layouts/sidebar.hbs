@@ -1,0 +1,21 @@
+---
+layout: default.hbs
+---
+
+<div class="row">
+  <div class="col-lg-3">
+    <div class="sidebar">
+      <a href="#">Buttons</a>
+      <ul class="nav">
+        <li><a href="#button-expand-left"></a>Expand Left</li>
+        <li><a href="#button-expand-right"></a>Expand Right</li>
+        <li><a href="#button-expand-up"></a>Expand Up</li>
+        <li><a href="#button-expand-down"></a>Expand Down</li>
+      </ul>
+    </div>
+  </div>
+  <div class="col-lg-9">
+    <!-- render content from pages that specify this layout -->
+    {{> body }}
+  </div>
+</div>
