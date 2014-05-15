@@ -2,6 +2,7 @@
 
 @import "guides/normalize";
 @import "guides/typebase";
+@import "guides/typography";
 * {
   box-sizing:border-box;
 }
@@ -17,6 +18,45 @@ body { margin: 0; }
 img.main {
   width:100%;
 }
+
+i[class*="icon"] {
+  height: 30px;
+  display: block;
+  background-size: contain;
+  cursor: pointer;
+}
+.positioned {
+  z-index: 3000;
+  left: 20%;
+  position: fixed;
+  width:40px;
+}
+header  {
+  height:250px;
+  h1 {
+  color: white;
+  text-transform: uppercase;
+  margin-top: 10rem;
+  font-size: 2rem;
+  text-align: center;
+  }
+  &:before {
+    content:"";
+    z-index: -1;
+    // background-attachment: local;
+    background-image: url(../images/backgrounds/city.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width:100%;
+    min-height:500px;
+    position: absolute;
+    top:0;
+    left:0;
+    clip: rect(0px,100%,600px,0px);
+  }
+}
+
 .main {
   // position: relative;
   display: inline-block;
@@ -25,27 +65,32 @@ img.main {
   padding-left: 10%;
   // margin:0 auto;
   // padding-right: 20%;
-  max-width:760px;
-  &:before {
-    content:"";
-    z-index: -1;
-    // background-attachment: local;
-    background-image: url(../images/backgrounds/city.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    // background-size: cover;
-    width:100%;
-    height:600px;
-    position: absolute;
-    top:0;
-    left:0;
-  }
+  max-width:800px;
+
 }
-.sidebar, .aft-sidebar {
+.content {background:white;}
+.sidebar {
   position: relative;
   width:20%;
   display: table-cell;
-  background:rgba(0,0,0,.3);
+  vertical-align: top;
+  background:rgba(73,73,73,1);
+}
+.sidebar-main {
+  position: fixed;
+  padding: 20px;
+  h3 {
+    margin-top: .6rem;
+    // font-size:1rem;
+  }
+  ul {
+    margin:0;
+    padding: 0;
+    list-style: none;
+    li {
+      line-height: 1rem;
+    }
+  }
 }
 
 .checklist {
@@ -54,5 +99,5 @@ img.main {
   right:0;
   bottom:0;
   height:40px;
-  background:#ccc;
+  background:rgba(100,100,100,.4);
 }

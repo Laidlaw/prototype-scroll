@@ -1,1 +1,567 @@
+.icon-fi-address-book { background-image: url(png/fi-address-book.png); background-repeat: no-repeat; }
+
+.icon-fi-alert { background-image: url(png/fi-alert.png); background-repeat: no-repeat; }
+
+.icon-fi-align-center { background-image: url(png/fi-align-center.png); background-repeat: no-repeat; }
+
+.icon-fi-align-justify { background-image: url(png/fi-align-justify.png); background-repeat: no-repeat; }
+
+.icon-fi-align-left { background-image: url(png/fi-align-left.png); background-repeat: no-repeat; }
+
+.icon-fi-align-right { background-image: url(png/fi-align-right.png); background-repeat: no-repeat; }
+
+.icon-fi-anchor { background-image: url(png/fi-anchor.png); background-repeat: no-repeat; }
+
+.icon-fi-annotate { background-image: url(png/fi-annotate.png); background-repeat: no-repeat; }
+
+.icon-fi-archive { background-image: url(png/fi-archive.png); background-repeat: no-repeat; }
+
+.icon-fi-arrow-down { background-image: url(png/fi-arrow-down.png); background-repeat: no-repeat; }
+
+.icon-fi-arrow-left { background-image: url(png/fi-arrow-left.png); background-repeat: no-repeat; }
+
+.icon-fi-arrow-right { background-image: url(png/fi-arrow-right.png); background-repeat: no-repeat; }
+
+.icon-fi-arrow-up { background-image: url(png/fi-arrow-up.png); background-repeat: no-repeat; }
+
+.icon-fi-arrows-compress { background-image: url(png/fi-arrows-compress.png); background-repeat: no-repeat; }
+
+.icon-fi-arrows-expand { background-image: url(png/fi-arrows-expand.png); background-repeat: no-repeat; }
+
+.icon-fi-arrows-in { background-image: url(png/fi-arrows-in.png); background-repeat: no-repeat; }
+
+.icon-fi-arrows-out { background-image: url(png/fi-arrows-out.png); background-repeat: no-repeat; }
+
+.icon-fi-asl { background-image: url(png/fi-asl.png); background-repeat: no-repeat; }
+
+.icon-fi-asterisk { background-image: url(png/fi-asterisk.png); background-repeat: no-repeat; }
+
+.icon-fi-at-sign { background-image: url(png/fi-at-sign.png); background-repeat: no-repeat; }
+
+.icon-fi-background-color { background-image: url(png/fi-background-color.png); background-repeat: no-repeat; }
+
+.icon-fi-battery-empty { background-image: url(png/fi-battery-empty.png); background-repeat: no-repeat; }
+
+.icon-fi-battery-full { background-image: url(png/fi-battery-full.png); background-repeat: no-repeat; }
+
+.icon-fi-battery-half { background-image: url(png/fi-battery-half.png); background-repeat: no-repeat; }
+
+.icon-fi-bitcoin-circle { background-image: url(png/fi-bitcoin-circle.png); background-repeat: no-repeat; }
+
+.icon-fi-bitcoin { background-image: url(png/fi-bitcoin.png); background-repeat: no-repeat; }
+
+.icon-fi-blind { background-image: url(png/fi-blind.png); background-repeat: no-repeat; }
+
+.icon-fi-bluetooth { background-image: url(png/fi-bluetooth.png); background-repeat: no-repeat; }
+
+.icon-fi-bold { background-image: url(png/fi-bold.png); background-repeat: no-repeat; }
+
+.icon-fi-book-bookmark { background-image: url(png/fi-book-bookmark.png); background-repeat: no-repeat; }
+
+.icon-fi-book { background-image: url(png/fi-book.png); background-repeat: no-repeat; }
+
+.icon-fi-bookmark { background-image: url(png/fi-bookmark.png); background-repeat: no-repeat; }
+
+.icon-fi-braille { background-image: url(png/fi-braille.png); background-repeat: no-repeat; }
+
+.icon-fi-burst-new { background-image: url(png/fi-burst-new.png); background-repeat: no-repeat; }
+
+.icon-fi-burst-sale { background-image: url(png/fi-burst-sale.png); background-repeat: no-repeat; }
+
+.icon-fi-burst { background-image: url(png/fi-burst.png); background-repeat: no-repeat; }
+
+.icon-fi-calendar { background-image: url(png/fi-calendar.png); background-repeat: no-repeat; }
+
+.icon-fi-camera { background-image: url(png/fi-camera.png); background-repeat: no-repeat; }
+
+.icon-fi-check { background-image: url(png/fi-check.png); background-repeat: no-repeat; }
+
+.icon-fi-checkbox { background-image: url(png/fi-checkbox.png); background-repeat: no-repeat; }
+
+.icon-fi-clipboard-notes { background-image: url(png/fi-clipboard-notes.png); background-repeat: no-repeat; }
+
+.icon-fi-clipboard-pencil { background-image: url(png/fi-clipboard-pencil.png); background-repeat: no-repeat; }
+
+.icon-fi-clipboard { background-image: url(png/fi-clipboard.png); background-repeat: no-repeat; }
+
+.icon-fi-clock { background-image: url(png/fi-clock.png); background-repeat: no-repeat; }
+
+.icon-fi-closed-caption { background-image: url(png/fi-closed-caption.png); background-repeat: no-repeat; }
+
+.icon-fi-cloud { background-image: url(png/fi-cloud.png); background-repeat: no-repeat; }
+
+.icon-fi-comment-minus { background-image: url(png/fi-comment-minus.png); background-repeat: no-repeat; }
+
+.icon-fi-comment-quotes { background-image: url(png/fi-comment-quotes.png); background-repeat: no-repeat; }
+
+.icon-fi-comment-video { background-image: url(png/fi-comment-video.png); background-repeat: no-repeat; }
+
+.icon-fi-comment { background-image: url(png/fi-comment.png); background-repeat: no-repeat; }
+
+.icon-fi-comments { background-image: url(png/fi-comments.png); background-repeat: no-repeat; }
+
+.icon-fi-compass { background-image: url(png/fi-compass.png); background-repeat: no-repeat; }
+
+.icon-fi-contrast { background-image: url(png/fi-contrast.png); background-repeat: no-repeat; }
+
+.icon-fi-credit-card { background-image: url(png/fi-credit-card.png); background-repeat: no-repeat; }
+
+.icon-fi-crop { background-image: url(png/fi-crop.png); background-repeat: no-repeat; }
+
+.icon-fi-crown { background-image: url(png/fi-crown.png); background-repeat: no-repeat; }
+
+.icon-fi-css3 { background-image: url(png/fi-css3.png); background-repeat: no-repeat; }
+
+.icon-fi-database { background-image: url(png/fi-database.png); background-repeat: no-repeat; }
+
+.icon-fi-die-five { background-image: url(png/fi-die-five.png); background-repeat: no-repeat; }
+
+.icon-fi-die-four { background-image: url(png/fi-die-four.png); background-repeat: no-repeat; }
+
+.icon-fi-die-one { background-image: url(png/fi-die-one.png); background-repeat: no-repeat; }
+
+.icon-fi-die-six { background-image: url(png/fi-die-six.png); background-repeat: no-repeat; }
+
+.icon-fi-die-three { background-image: url(png/fi-die-three.png); background-repeat: no-repeat; }
+
+.icon-fi-die-two { background-image: url(png/fi-die-two.png); background-repeat: no-repeat; }
+
+.icon-fi-dislike { background-image: url(png/fi-dislike.png); background-repeat: no-repeat; }
+
+.icon-fi-dollar-bill { background-image: url(png/fi-dollar-bill.png); background-repeat: no-repeat; }
+
+.icon-fi-dollar { background-image: url(png/fi-dollar.png); background-repeat: no-repeat; }
+
+.icon-fi-download { background-image: url(png/fi-download.png); background-repeat: no-repeat; }
+
+.icon-fi-eject { background-image: url(png/fi-eject.png); background-repeat: no-repeat; }
+
+.icon-fi-elevator { background-image: url(png/fi-elevator.png); background-repeat: no-repeat; }
+
+.icon-fi-euro { background-image: url(png/fi-euro.png); background-repeat: no-repeat; }
+
+.icon-fi-eye { background-image: url(png/fi-eye.png); background-repeat: no-repeat; }
+
+.icon-fi-fast-forward { background-image: url(png/fi-fast-forward.png); background-repeat: no-repeat; }
+
+.icon-fi-female-symbol { background-image: url(png/fi-female-symbol.png); background-repeat: no-repeat; }
+
+.icon-fi-female { background-image: url(png/fi-female.png); background-repeat: no-repeat; }
+
+.icon-fi-filter { background-image: url(png/fi-filter.png); background-repeat: no-repeat; }
+
+.icon-fi-first-aid { background-image: url(png/fi-first-aid.png); background-repeat: no-repeat; }
+
+.icon-fi-flag { background-image: url(png/fi-flag.png); background-repeat: no-repeat; }
+
+.icon-fi-folder-add { background-image: url(png/fi-folder-add.png); background-repeat: no-repeat; }
+
+.icon-fi-folder-lock { background-image: url(png/fi-folder-lock.png); background-repeat: no-repeat; }
+
+.icon-fi-folder { background-image: url(png/fi-folder.png); background-repeat: no-repeat; }
+
+.icon-fi-foot { background-image: url(png/fi-foot.png); background-repeat: no-repeat; }
+
+.icon-fi-foundation { background-image: url(png/fi-foundation.png); background-repeat: no-repeat; }
+
+.icon-fi-graph-bar { background-image: url(png/fi-graph-bar.png); background-repeat: no-repeat; }
+
+.icon-fi-graph-horizontal { background-image: url(png/fi-graph-horizontal.png); background-repeat: no-repeat; }
+
+.icon-fi-graph-pie { background-image: url(png/fi-graph-pie.png); background-repeat: no-repeat; }
+
+.icon-fi-graph-trend { background-image: url(png/fi-graph-trend.png); background-repeat: no-repeat; }
+
+.icon-fi-guide-dog { background-image: url(png/fi-guide-dog.png); background-repeat: no-repeat; }
+
+.icon-fi-hearing-aid { background-image: url(png/fi-hearing-aid.png); background-repeat: no-repeat; }
+
+.icon-fi-heart { background-image: url(png/fi-heart.png); background-repeat: no-repeat; }
+
+.icon-fi-home { background-image: url(png/fi-home.png); background-repeat: no-repeat; }
+
+.icon-fi-html5 { background-image: url(png/fi-html5.png); background-repeat: no-repeat; }
+
+.icon-fi-indent-less { background-image: url(png/fi-indent-less.png); background-repeat: no-repeat; }
+
+.icon-fi-indent-more { background-image: url(png/fi-indent-more.png); background-repeat: no-repeat; }
+
+.icon-fi-info { background-image: url(png/fi-info.png); background-repeat: no-repeat; }
+
+.icon-fi-italic { background-image: url(png/fi-italic.png); background-repeat: no-repeat; }
+
+.icon-fi-key { background-image: url(png/fi-key.png); background-repeat: no-repeat; }
+
+.icon-fi-laptop { background-image: url(png/fi-laptop.png); background-repeat: no-repeat; }
+
+.icon-fi-layout { background-image: url(png/fi-layout.png); background-repeat: no-repeat; }
+
+.icon-fi-lightbulb { background-image: url(png/fi-lightbulb.png); background-repeat: no-repeat; }
+
+.icon-fi-like { background-image: url(png/fi-like.png); background-repeat: no-repeat; }
+
+.icon-fi-link { background-image: url(png/fi-link.png); background-repeat: no-repeat; }
+
+.icon-fi-list-bullet { background-image: url(png/fi-list-bullet.png); background-repeat: no-repeat; }
+
+.icon-fi-list-number { background-image: url(png/fi-list-number.png); background-repeat: no-repeat; }
+
+.icon-fi-list-thumbnails { background-image: url(png/fi-list-thumbnails.png); background-repeat: no-repeat; }
+
+.icon-fi-list { background-image: url(png/fi-list.png); background-repeat: no-repeat; }
+
+.icon-fi-lock { background-image: url(png/fi-lock.png); background-repeat: no-repeat; }
+
+.icon-fi-loop { background-image: url(png/fi-loop.png); background-repeat: no-repeat; }
+
+.icon-fi-magnifying-glass { background-image: url(png/fi-magnifying-glass.png); background-repeat: no-repeat; }
+
+.icon-fi-mail { background-image: url(png/fi-mail.png); background-repeat: no-repeat; }
+
+.icon-fi-male-female { background-image: url(png/fi-male-female.png); background-repeat: no-repeat; }
+
+.icon-fi-male-symbol { background-image: url(png/fi-male-symbol.png); background-repeat: no-repeat; }
+
+.icon-fi-male { background-image: url(png/fi-male.png); background-repeat: no-repeat; }
+
+.icon-fi-map { background-image: url(png/fi-map.png); background-repeat: no-repeat; }
+
+.icon-fi-marker { background-image: url(png/fi-marker.png); background-repeat: no-repeat; }
+
+.icon-fi-megaphone { background-image: url(png/fi-megaphone.png); background-repeat: no-repeat; }
+
+.icon-fi-microphone { background-image: url(png/fi-microphone.png); background-repeat: no-repeat; }
+
+.icon-fi-minus-circle { background-image: url(png/fi-minus-circle.png); background-repeat: no-repeat; }
+
+.icon-fi-minus { background-image: url(png/fi-minus.png); background-repeat: no-repeat; }
+
+.icon-fi-mobile-signal { background-image: url(png/fi-mobile-signal.png); background-repeat: no-repeat; }
+
+.icon-fi-mobile { background-image: url(png/fi-mobile.png); background-repeat: no-repeat; }
+
+.icon-fi-monitor { background-image: url(png/fi-monitor.png); background-repeat: no-repeat; }
+
+.icon-fi-mountains { background-image: url(png/fi-mountains.png); background-repeat: no-repeat; }
+
+.icon-fi-music { background-image: url(png/fi-music.png); background-repeat: no-repeat; }
+
+.icon-fi-next { background-image: url(png/fi-next.png); background-repeat: no-repeat; }
+
+.icon-fi-no-dogs { background-image: url(png/fi-no-dogs.png); background-repeat: no-repeat; }
+
+.icon-fi-no-smoking { background-image: url(png/fi-no-smoking.png); background-repeat: no-repeat; }
+
+.icon-fi-page-add { background-image: url(png/fi-page-add.png); background-repeat: no-repeat; }
+
+.icon-fi-page-copy { background-image: url(png/fi-page-copy.png); background-repeat: no-repeat; }
+
+.icon-fi-page-csv { background-image: url(png/fi-page-csv.png); background-repeat: no-repeat; }
+
+.icon-fi-page-delete { background-image: url(png/fi-page-delete.png); background-repeat: no-repeat; }
+
+.icon-fi-page-doc { background-image: url(png/fi-page-doc.png); background-repeat: no-repeat; }
+
+.icon-fi-page-edit { background-image: url(png/fi-page-edit.png); background-repeat: no-repeat; }
+
+.icon-fi-page-export-csv { background-image: url(png/fi-page-export-csv.png); background-repeat: no-repeat; }
+
+.icon-fi-page-export-doc { background-image: url(png/fi-page-export-doc.png); background-repeat: no-repeat; }
+
+.icon-fi-page-export-pdf { background-image: url(png/fi-page-export-pdf.png); background-repeat: no-repeat; }
+
+.icon-fi-page-export { background-image: url(png/fi-page-export.png); background-repeat: no-repeat; }
+
+.icon-fi-page-filled { background-image: url(png/fi-page-filled.png); background-repeat: no-repeat; }
+
+.icon-fi-page-multiple { background-image: url(png/fi-page-multiple.png); background-repeat: no-repeat; }
+
+.icon-fi-page-pdf { background-image: url(png/fi-page-pdf.png); background-repeat: no-repeat; }
+
+.icon-fi-page-remove { background-image: url(png/fi-page-remove.png); background-repeat: no-repeat; }
+
+.icon-fi-page-search { background-image: url(png/fi-page-search.png); background-repeat: no-repeat; }
+
+.icon-fi-page { background-image: url(png/fi-page.png); background-repeat: no-repeat; }
+
+.icon-fi-paint-bucket { background-image: url(png/fi-paint-bucket.png); background-repeat: no-repeat; }
+
+.icon-fi-paperclip { background-image: url(png/fi-paperclip.png); background-repeat: no-repeat; }
+
+.icon-fi-pause { background-image: url(png/fi-pause.png); background-repeat: no-repeat; }
+
+.icon-fi-paw { background-image: url(png/fi-paw.png); background-repeat: no-repeat; }
+
+.icon-fi-paypal { background-image: url(png/fi-paypal.png); background-repeat: no-repeat; }
+
+.icon-fi-pencil { background-image: url(png/fi-pencil.png); background-repeat: no-repeat; }
+
+.icon-fi-photo { background-image: url(png/fi-photo.png); background-repeat: no-repeat; }
+
+.icon-fi-play-circle { background-image: url(png/fi-play-circle.png); background-repeat: no-repeat; }
+
+.icon-fi-play-video { background-image: url(png/fi-play-video.png); background-repeat: no-repeat; }
+
+.icon-fi-play { background-image: url(png/fi-play.png); background-repeat: no-repeat; }
+
+.icon-fi-plus { background-image: url(png/fi-plus.png); background-repeat: no-repeat; }
+
+.icon-fi-pound { background-image: url(png/fi-pound.png); background-repeat: no-repeat; }
+
+.icon-fi-power { background-image: url(png/fi-power.png); background-repeat: no-repeat; }
+
+.icon-fi-previous { background-image: url(png/fi-previous.png); background-repeat: no-repeat; }
+
+.icon-fi-price-tag { background-image: url(png/fi-price-tag.png); background-repeat: no-repeat; }
+
+.icon-fi-pricetag-multiple { background-image: url(png/fi-pricetag-multiple.png); background-repeat: no-repeat; }
+
+.icon-fi-print { background-image: url(png/fi-print.png); background-repeat: no-repeat; }
+
+.icon-fi-prohibited { background-image: url(png/fi-prohibited.png); background-repeat: no-repeat; }
+
+.icon-fi-projection-screen { background-image: url(png/fi-projection-screen.png); background-repeat: no-repeat; }
+
+.icon-fi-puzzle { background-image: url(png/fi-puzzle.png); background-repeat: no-repeat; }
+
+.icon-fi-quote { background-image: url(png/fi-quote.png); background-repeat: no-repeat; }
+
+.icon-fi-record { background-image: url(png/fi-record.png); background-repeat: no-repeat; }
+
+.icon-fi-refresh { background-image: url(png/fi-refresh.png); background-repeat: no-repeat; }
+
+.icon-fi-results-demographics { background-image: url(png/fi-results-demographics.png); background-repeat: no-repeat; }
+
+.icon-fi-results { background-image: url(png/fi-results.png); background-repeat: no-repeat; }
+
+.icon-fi-rewind-ten { background-image: url(png/fi-rewind-ten.png); background-repeat: no-repeat; }
+
+.icon-fi-rewind { background-image: url(png/fi-rewind.png); background-repeat: no-repeat; }
+
+.icon-fi-rss { background-image: url(png/fi-rss.png); background-repeat: no-repeat; }
+
+.icon-fi-safety-cone { background-image: url(png/fi-safety-cone.png); background-repeat: no-repeat; }
+
+.icon-fi-save { background-image: url(png/fi-save.png); background-repeat: no-repeat; }
+
+.icon-fi-share { background-image: url(png/fi-share.png); background-repeat: no-repeat; }
+
+.icon-fi-sheriff-badge { background-image: url(png/fi-sheriff-badge.png); background-repeat: no-repeat; }
+
+.icon-fi-shield { background-image: url(png/fi-shield.png); background-repeat: no-repeat; }
+
+.icon-fi-shopping-bag { background-image: url(png/fi-shopping-bag.png); background-repeat: no-repeat; }
+
+.icon-fi-shopping-cart { background-image: url(png/fi-shopping-cart.png); background-repeat: no-repeat; }
+
+.icon-fi-shuffle { background-image: url(png/fi-shuffle.png); background-repeat: no-repeat; }
+
+.icon-fi-skull { background-image: url(png/fi-skull.png); background-repeat: no-repeat; }
+
+.icon-fi-social-500px { background-image: url(png/fi-social-500px.png); background-repeat: no-repeat; }
+
+.icon-fi-social-adobe { background-image: url(png/fi-social-adobe.png); background-repeat: no-repeat; }
+
+.icon-fi-social-amazon { background-image: url(png/fi-social-amazon.png); background-repeat: no-repeat; }
+
+.icon-fi-social-android { background-image: url(png/fi-social-android.png); background-repeat: no-repeat; }
+
+.icon-fi-social-apple { background-image: url(png/fi-social-apple.png); background-repeat: no-repeat; }
+
+.icon-fi-social-behance { background-image: url(png/fi-social-behance.png); background-repeat: no-repeat; }
+
+.icon-fi-social-bing { background-image: url(png/fi-social-bing.png); background-repeat: no-repeat; }
+
+.icon-fi-social-blogger { background-image: url(png/fi-social-blogger.png); background-repeat: no-repeat; }
+
+.icon-fi-social-delicious { background-image: url(png/fi-social-delicious.png); background-repeat: no-repeat; }
+
+.icon-fi-social-designer-news { background-image: url(png/fi-social-designer-news.png); background-repeat: no-repeat; }
+
+.icon-fi-social-deviant-art { background-image: url(png/fi-social-deviant-art.png); background-repeat: no-repeat; }
+
+.icon-fi-social-digg { background-image: url(png/fi-social-digg.png); background-repeat: no-repeat; }
+
+.icon-fi-social-dribbble { background-image: url(png/fi-social-dribbble.png); background-repeat: no-repeat; }
+
+.icon-fi-social-drive { background-image: url(png/fi-social-drive.png); background-repeat: no-repeat; }
+
+.icon-fi-social-dropbox { background-image: url(png/fi-social-dropbox.png); background-repeat: no-repeat; }
+
+.icon-fi-social-evernote { background-image: url(png/fi-social-evernote.png); background-repeat: no-repeat; }
+
+.icon-fi-social-facebook { background-image: url(png/fi-social-facebook.png); background-repeat: no-repeat; }
+
+.icon-fi-social-flickr { background-image: url(png/fi-social-flickr.png); background-repeat: no-repeat; }
+
+.icon-fi-social-forrst { background-image: url(png/fi-social-forrst.png); background-repeat: no-repeat; }
+
+.icon-fi-social-foursquare { background-image: url(png/fi-social-foursquare.png); background-repeat: no-repeat; }
+
+.icon-fi-social-game-center { background-image: url(png/fi-social-game-center.png); background-repeat: no-repeat; }
+
+.icon-fi-social-github { background-image: url(png/fi-social-github.png); background-repeat: no-repeat; }
+
+.icon-fi-social-google-plus { background-image: url(png/fi-social-google-plus.png); background-repeat: no-repeat; }
+
+.icon-fi-social-hacker-news { background-image: url(png/fi-social-hacker-news.png); background-repeat: no-repeat; }
+
+.icon-fi-social-hi5 { background-image: url(png/fi-social-hi5.png); background-repeat: no-repeat; }
+
+.icon-fi-social-instagram { background-image: url(png/fi-social-instagram.png); background-repeat: no-repeat; }
+
+.icon-fi-social-joomla { background-image: url(png/fi-social-joomla.png); background-repeat: no-repeat; }
+
+.icon-fi-social-lastfm { background-image: url(png/fi-social-lastfm.png); background-repeat: no-repeat; }
+
+.icon-fi-social-linkedin { background-image: url(png/fi-social-linkedin.png); background-repeat: no-repeat; }
+
+.icon-fi-social-medium { background-image: url(png/fi-social-medium.png); background-repeat: no-repeat; }
+
+.icon-fi-social-myspace { background-image: url(png/fi-social-myspace.png); background-repeat: no-repeat; }
+
+.icon-fi-social-orkut { background-image: url(png/fi-social-orkut.png); background-repeat: no-repeat; }
+
+.icon-fi-social-path { background-image: url(png/fi-social-path.png); background-repeat: no-repeat; }
+
+.icon-fi-social-picasa { background-image: url(png/fi-social-picasa.png); background-repeat: no-repeat; }
+
+.icon-fi-social-pinterest { background-image: url(png/fi-social-pinterest.png); background-repeat: no-repeat; }
+
+.icon-fi-social-rdio { background-image: url(png/fi-social-rdio.png); background-repeat: no-repeat; }
+
+.icon-fi-social-reddit { background-image: url(png/fi-social-reddit.png); background-repeat: no-repeat; }
+
+.icon-fi-social-skillshare { background-image: url(png/fi-social-skillshare.png); background-repeat: no-repeat; }
+
+.icon-fi-social-skype { background-image: url(png/fi-social-skype.png); background-repeat: no-repeat; }
+
+.icon-fi-social-smashing-mag { background-image: url(png/fi-social-smashing-mag.png); background-repeat: no-repeat; }
+
+.icon-fi-social-snapchat { background-image: url(png/fi-social-snapchat.png); background-repeat: no-repeat; }
+
+.icon-fi-social-spotify { background-image: url(png/fi-social-spotify.png); background-repeat: no-repeat; }
+
+.icon-fi-social-squidoo { background-image: url(png/fi-social-squidoo.png); background-repeat: no-repeat; }
+
+.icon-fi-social-stack-overflow { background-image: url(png/fi-social-stack-overflow.png); background-repeat: no-repeat; }
+
+.icon-fi-social-steam { background-image: url(png/fi-social-steam.png); background-repeat: no-repeat; }
+
+.icon-fi-social-stumbleupon { background-image: url(png/fi-social-stumbleupon.png); background-repeat: no-repeat; }
+
+.icon-fi-social-treehouse { background-image: url(png/fi-social-treehouse.png); background-repeat: no-repeat; }
+
+.icon-fi-social-tumblr { background-image: url(png/fi-social-tumblr.png); background-repeat: no-repeat; }
+
+.icon-fi-social-twitter { background-image: url(png/fi-social-twitter.png); background-repeat: no-repeat; }
+
+.icon-fi-social-vimeo { background-image: url(png/fi-social-vimeo.png); background-repeat: no-repeat; }
+
+.icon-fi-social-windows { background-image: url(png/fi-social-windows.png); background-repeat: no-repeat; }
+
+.icon-fi-social-xbox { background-image: url(png/fi-social-xbox.png); background-repeat: no-repeat; }
+
+.icon-fi-social-yahoo { background-image: url(png/fi-social-yahoo.png); background-repeat: no-repeat; }
+
+.icon-fi-social-yelp { background-image: url(png/fi-social-yelp.png); background-repeat: no-repeat; }
+
+.icon-fi-social-youtube { background-image: url(png/fi-social-youtube.png); background-repeat: no-repeat; }
+
+.icon-fi-social-zerply { background-image: url(png/fi-social-zerply.png); background-repeat: no-repeat; }
+
+.icon-fi-social-zurb { background-image: url(png/fi-social-zurb.png); background-repeat: no-repeat; }
+
+.icon-fi-sound { background-image: url(png/fi-sound.png); background-repeat: no-repeat; }
+
+.icon-fi-star { background-image: url(png/fi-star.png); background-repeat: no-repeat; }
+
+.icon-fi-stop { background-image: url(png/fi-stop.png); background-repeat: no-repeat; }
+
+.icon-fi-strikethrough { background-image: url(png/fi-strikethrough.png); background-repeat: no-repeat; }
+
+.icon-fi-subscript { background-image: url(png/fi-subscript.png); background-repeat: no-repeat; }
+
+.icon-fi-superscript { background-image: url(png/fi-superscript.png); background-repeat: no-repeat; }
+
+.icon-fi-tablet-landscape { background-image: url(png/fi-tablet-landscape.png); background-repeat: no-repeat; }
+
+.icon-fi-tablet-portrait { background-image: url(png/fi-tablet-portrait.png); background-repeat: no-repeat; }
+
+.icon-fi-target-two { background-image: url(png/fi-target-two.png); background-repeat: no-repeat; }
+
+.icon-fi-target { background-image: url(png/fi-target.png); background-repeat: no-repeat; }
+
+.icon-fi-telephone-accessible { background-image: url(png/fi-telephone-accessible.png); background-repeat: no-repeat; }
+
+.icon-fi-telephone { background-image: url(png/fi-telephone.png); background-repeat: no-repeat; }
+
+.icon-fi-text-color { background-image: url(png/fi-text-color.png); background-repeat: no-repeat; }
+
+.icon-fi-thumbnails { background-image: url(png/fi-thumbnails.png); background-repeat: no-repeat; }
+
+.icon-fi-ticket { background-image: url(png/fi-ticket.png); background-repeat: no-repeat; }
+
+.icon-fi-torso-business { background-image: url(png/fi-torso-business.png); background-repeat: no-repeat; }
+
+.icon-fi-torso-female { background-image: url(png/fi-torso-female.png); background-repeat: no-repeat; }
+
+.icon-fi-torso { background-image: url(png/fi-torso.png); background-repeat: no-repeat; }
+
+.icon-fi-torsos-all-female { background-image: url(png/fi-torsos-all-female.png); background-repeat: no-repeat; }
+
+.icon-fi-torsos-all { background-image: url(png/fi-torsos-all.png); background-repeat: no-repeat; }
+
+.icon-fi-torsos-female-male { background-image: url(png/fi-torsos-female-male.png); background-repeat: no-repeat; }
+
+.icon-fi-torsos-male-female { background-image: url(png/fi-torsos-male-female.png); background-repeat: no-repeat; }
+
+.icon-fi-torsos { background-image: url(png/fi-torsos.png); background-repeat: no-repeat; }
+
+.icon-fi-trash { background-image: url(png/fi-trash.png); background-repeat: no-repeat; }
+
+.icon-fi-trees { background-image: url(png/fi-trees.png); background-repeat: no-repeat; }
+
+.icon-fi-trophy { background-image: url(png/fi-trophy.png); background-repeat: no-repeat; }
+
+.icon-fi-underline { background-image: url(png/fi-underline.png); background-repeat: no-repeat; }
+
+.icon-fi-universal-access { background-image: url(png/fi-universal-access.png); background-repeat: no-repeat; }
+
+.icon-fi-unlink { background-image: url(png/fi-unlink.png); background-repeat: no-repeat; }
+
+.icon-fi-unlock { background-image: url(png/fi-unlock.png); background-repeat: no-repeat; }
+
+.icon-fi-upload-cloud { background-image: url(png/fi-upload-cloud.png); background-repeat: no-repeat; }
+
+.icon-fi-upload { background-image: url(png/fi-upload.png); background-repeat: no-repeat; }
+
+.icon-fi-usb { background-image: url(png/fi-usb.png); background-repeat: no-repeat; }
+
+.icon-fi-video { background-image: url(png/fi-video.png); background-repeat: no-repeat; }
+
+.icon-fi-volume-none { background-image: url(png/fi-volume-none.png); background-repeat: no-repeat; }
+
+.icon-fi-volume-strike { background-image: url(png/fi-volume-strike.png); background-repeat: no-repeat; }
+
+.icon-fi-volume { background-image: url(png/fi-volume.png); background-repeat: no-repeat; }
+
+.icon-fi-web { background-image: url(png/fi-web.png); background-repeat: no-repeat; }
+
+.icon-fi-wheelchair { background-image: url(png/fi-wheelchair.png); background-repeat: no-repeat; }
+
+.icon-fi-widget { background-image: url(png/fi-widget.png); background-repeat: no-repeat; }
+
+.icon-fi-wrench { background-image: url(png/fi-wrench.png); background-repeat: no-repeat; }
+
+.icon-fi-x-circle { background-image: url(png/fi-x-circle.png); background-repeat: no-repeat; }
+
+.icon-fi-x { background-image: url(png/fi-x.png); background-repeat: no-repeat; }
+
+.icon-fi-yen { background-image: url(png/fi-yen.png); background-repeat: no-repeat; }
+
+.icon-fi-zoom-in { background-image: url(png/fi-zoom-in.png); background-repeat: no-repeat; }
+
+.icon-fi-zoom-out { background-image: url(png/fi-zoom-out.png); background-repeat: no-repeat; }
+
 .icon-test { background-image: url(png/test.png); background-repeat: no-repeat; }
