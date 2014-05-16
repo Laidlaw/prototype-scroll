@@ -1,19 +1,72 @@
 @charset "UTF-8";
 
+
+$sidebar-width: 300px;
+
 @import "guides/normalize";
 @import "guides/typebase";
 @import "guides/typography";
+
+@import "partials/sidebar";
+
+
 * {
   box-sizing:border-box;
 }
 
-body { margin: 0; }
+%clearfix {
+  display: block;
+}
+%clearfix:after {
+  clear: both;
+  content: ' ';
+  display: block;
+  font-size: 0;
+  line-height: 0;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+hr {
+  border-bottom: 1px solid #666;
+}
+
+%animate{
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+body {
+  margin: 0;
+  padding-left:$sidebar-width;
+  @extend %animate;
+  &.hide {padding-left:0;}
+
+}
 
 .wrapper {
-  width:100%;
-  display:table;
+  // max-width: 1280px;
+  // padding-top: 1.375em;
+  position: relative;
   margin:0 auto;
+  // margin-left: $sidebar-width;
+  @extend %clearfix;
+  @extend %animate;
+  &.show {
 
+  }
+  &.hide {
+    // margin:0 auto;
+    // max-width:100%;
+
+  }
+}
+
+.wrapper.sidebar--hide {
+  margin:0 auto;
 }
 img.main {
   width:100%;
@@ -25,79 +78,89 @@ i[class*="icon"] {
   background-size: contain;
   cursor: pointer;
 }
-.positioned {
-  z-index: 3000;
-  left: 20%;
-  position: fixed;
-  width:40px;
-}
-header  {
-  height:250px;
-  h1 {
-  color: white;
-  text-transform: uppercase;
-  margin-top: 10rem;
-  font-size: 2rem;
-  text-align: center;
-  }
-  &:before {
-    content:"";
-    z-index: -1;
-    // background-attachment: local;
-    background-image: url(../images/backgrounds/city.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    width:100%;
-    min-height:500px;
-    position: absolute;
-    top:0;
-    left:0;
-    clip: rect(0px,100%,600px,0px);
-  }
-}
 
 .main {
-  // position: relative;
-  display: inline-block;
-  // max-width:60%;
-  padding-bottom: 100px;
-  padding-left: 10%;
-  // margin:0 auto;
-  // padding-right: 20%;
-  max-width:800px;
-
-}
-.content {background:white;}
-.sidebar {
+  min-height: 1024px;
+  margin-bottom: 70px;
   position: relative;
-  width:20%;
-  display: table-cell;
-  vertical-align: top;
-  background:rgba(73,73,73,1);
+  // max-width: 800px;
+  // margin: 0 auto;
+  // width: 98%;
+  // padding: 0;
 }
-.sidebar-main {
-  position: fixed;
-  padding: 20px;
-  h3 {
-    margin-top: .6rem;
-    // font-size:1rem;
-  }
-  ul {
-    margin:0;
-    padding: 0;
-    list-style: none;
-    li {
-      line-height: 1rem;
+
+  header  {
+    height:450px;
+
+    h1 {
+    color: white;
+    text-transform: uppercase;
+    margin-top: 0rem;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 3em;
+    }
+    &:before {
+      content:"";
+      z-index: -1;
+      @extend %animate;
+      // background-attachment: local;
+      background-image: url(../images/backgrounds/city.jpg);
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+      //background-attachment: local;
+      width:100%;
+      min-height:500px;
+      position: absolute;
+      top:0;
+      left:0;
+      clip: rect(0px,100%,600px,0px);
+    }
+    &.hide {
+      height:600px;
+      &:before {
+        min-height:600px;
+      }
     }
   }
-}
+
+
+  .content {
+    background:white;
+    margin: 0 auto;
+    max-width: 800px;
+    line-height: 1.5em;
+    @extend %animate;
+  }
+
 
 .checklist {
   position: fixed;
   left:0;
   right:0;
   bottom:0;
+  z-index: 3;
   height:40px;
-  background:rgba(100,100,100,.4);
+  opacity:.4;
+  background:rgba(100,100,100,.9);
+  &:hover {
+    opacity: 1;
+  }
+  .checklist-nav {
+    width: $sidebar-width;
+    position: absolute;
+;
+  }
+
+  ul {
+    margin-top: 0;
+    display: table;
+    width:100%;
+    li {
+      display: table-cell;
+      list-style: none;
+      text-align: center;
+    }
+  }
 }

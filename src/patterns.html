@@ -21,13 +21,12 @@
         grunticon( [ "images/svg-build/icons.data.svg.css", "images/svg-build/icons.data.png.css", "images/svg-build/icons.fallback.css" ] );</script>
         <noscript><link rel="stylesheet" href="images/svg-build/icons.fallback.css"></noscript>
     </head>
-    <body>
-        <div class="wrapper">
-            
-<section class="sidebar">
-  <i class="icon-fi-list positioned"></i>
+    <body data-animation='slide-left'>
+    <i class="icon-fi-list sidebar--toggle" data-animation='slide-left'></i>
+<section class="sidebar" data-animation='slide-left'>
   <div class="sidebar-main">
     <h1 class="logo">Veteran Hiring Path</h1>
+    <hr>
     <nav>
       <h3>Prepare</h3>
       <ul>
@@ -53,11 +52,14 @@
 </section>
 
 
+        <div class="wrapper show">
+
         <!-- <img class="main" src="../images/backgrounds/city.jpg" alt=""> -->
             <section class="main">
                 
-<header>
+<header data-animation='slide-left'>
     <h1>Patterns</h1>
+
 </header>
 
                 
@@ -67,14 +69,42 @@
             </section>
 
         </div>
-        <section class="checklist">heres the checklist</section>
+        <section class="checklist" data-animation='slide-left'>
+  <aside class="checklist-nav">
+    <select name="" id="">
+      <option value="prepare">Prepare</option>
+      <option value="hire">Hire</option>
+      <option value="empower">Empower</option>
+    </select>
+  </aside>
+  <div class="wrapper">
+    <ul>
+      <li><input type="radio"></li>
+      <li><input type="radio"></li>
+      <li><input type="radio"></li>
+      <li><input type="radio"></li>
+      <li><input type="radio"></li>
+      <li><input type="radio"></li>
+      <li><input type="radio"></li>
+      <li><input type="radio"></li>
+    </ul>
+  </div>
+</section>
 
         <!-- build:js js/vendor/jquery.js -->
         <script src="bower_components/jquery/jquery.js"></script>
+
+        <!-- <script src="bower_components/angular/angular.js"></script> -->
+        <!-- <script src="js/directives/test.js"></script> -->
+
+        <script src="bower_components/metaquery/metaquery.js"></script>
+        <script src="bower_components/velocity/jquery.velocity.js"></script>
         <!-- endbuild -->
+
         <!-- build:js js/main.js -->
         <script src="js/main.js"></script>
         <!-- endbuild -->
+
         <!-- build:js js/plugins.js -->
         <script src="js/plugins.js"></script>
         <!-- endbuild -->
