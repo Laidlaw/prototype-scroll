@@ -9,6 +9,8 @@
 //     $(this).closest('.sidebar').css('left','-20%');
 // });
 
+window.fitText(document.querySelector('html'), 1);
+
 $('.sidebar--toggle').on('click', function(){
     if( $('.sidebar').is(':visible') ) {
         $("*[data-animation='slide-left']").toggleClass('hide', 'show');

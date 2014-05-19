@@ -42,6 +42,7 @@ hr {
 body {
   margin: 0;
   padding-left:$sidebar-width;
+  font-size: .2em;
   @extend %animate;
   &.hide {padding-left:0;}
 
@@ -95,10 +96,10 @@ i[class*="icon"] {
     h1 {
     color: white;
     text-transform: uppercase;
-    margin-top: 0rem;
-    font-size: 2rem;
+    margin-top: 0em;
+    // font-size: 2rem;
     text-align: center;
-    padding-top: 3em;
+    // padding-top: 3em;
     }
     &:before {
       content:"";
@@ -150,13 +151,13 @@ i[class*="icon"] {
   .checklist-nav {
     width: $sidebar-width;
     position: absolute;
-;
   }
 
   ul {
     margin-top: 0;
     display: table;
     width:100%;
+    margin-left:$sidebar-width;
     li {
       display: table-cell;
       list-style: none;
