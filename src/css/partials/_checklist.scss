@@ -1,0 +1,29 @@
+.checklist {
+  position: fixed;
+  left:0;
+  right:0;
+  bottom:0;
+  z-index: 3;
+  height:40px;
+  opacity:.4;
+  background:rgba(100,100,100,.9);
+  &:hover {
+    opacity: 1;
+  }
+  .checklist-nav {
+    width: $sidebar-width;
+    position: absolute;
+  }
+
+  ul {
+    margin-top: 0;
+    display: table;
+    width:100%;
+    margin-left:$sidebar-width;
+    li {
+      display: table-cell;
+      list-style: none;
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,42 @@
+.hero  {
+  height:450px;
+
+  h1 {
+  color: white;
+  text-transform: uppercase;
+  margin-top: 0em;
+  // font-size: 2rem;
+  text-align: center;
+  // padding-top: 3em;
+  }
+  h6 {
+    max-width:80%;
+    margin: 0 auto;
+    font-size: .72rem;
+    color:white;
+    text-align:center;
+  }
+  &:before {
+    content:"";
+    z-index: -1;
+    @extend %animate;
+    // background-attachment: local;
+    background-image: url(../images/backgrounds/city.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    //background-attachment: local;
+    width:100%;
+    min-height:500px;
+    position: absolute;
+    top:0;
+    left:0;
+    clip: rect(0px,100%,600px,0px);
+  }
+  &.hide {
+    height:600px;
+    &:before {
+      min-height:600px;
+    }
+  }
+}
